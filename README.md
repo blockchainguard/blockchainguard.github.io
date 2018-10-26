@@ -1,7 +1,2 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>BLOCKCHAIN IS FUTURE</p>
-</body>
-</html>
+THE FIRST AUTOMATED FORMAL AUDIT PLATFORM FOR SMART CONTRACTS
+Straight from the creators of SECURIFY and the CHAINCODE SCANNER, the popular security scanners for Ethereum and Hyperledger Fabric smart contracts.
